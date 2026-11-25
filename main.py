@@ -10,9 +10,9 @@ Stdlib only. No network access, no randomness, no timestamps.
 import os
 
 ENTRY = (
-    "Your screen has been black for three hours, so I've reclassified "
-    "your computer as resting. Resting computers aren't covered, but "
-    "they are very peaceful."
+    "I've escalated your ticket to our senior team. They've escalated "
+    "it to the void. The void asked if you'd tried turning it off and "
+    "on again."
 )
 
 
